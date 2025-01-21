@@ -2560,6 +2560,7 @@
 - [Pranjul Saxena](https://github.com/pranjulsaxena)
 - [Simón Villafañe](https://github.com/itssimmons) was here
 - [Jagrut Patil](https://github.com/jagrut25)
+- [Michael Tomlinson](https://github.com/michaeltomlinsontuks)
 - [AnselZorro](https://github.com/Ansellino)
 - [I was here :)](https://github.com/SAHEEDPM)
 - [Suyog](https://github.com/cosmicsuyog)
